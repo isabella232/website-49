@@ -16,7 +16,7 @@ weight = 60
 
 | Current Doctoral Students | Alumni |
 |------------------|--------|
-| [Carlos Jaramillo](http://me.vision2pi.com) | Roberto G. Valenti  (2011-2016)      |
+| [Carlos Jaramillo](http://me.vision2pi.com) | [Roberto G. Valenti](https://www.linkedin.com/in/roberto-g-valenti-a8571a13)  (2011-2016)      |
 | Bing Li          | Ivan Dryanovski     (2010-2015)   |
 | [Liang Yang](https://ericlyang.github.io/)      |  Samleo L. Joseph (~2015)     |
 | Chunhua Deng      |  Xiaochen Zhang (~2016)     |

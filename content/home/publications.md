@@ -13,13 +13,13 @@ widget = "publications"
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 20
 
 # List format.
 #   0 = Simple
 #   1 = Classic
 #   2 = Detailed
-list_format = 0
+list_format = 1
 
 # Filter by publication type.
 # -1: Any

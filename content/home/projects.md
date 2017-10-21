@@ -30,12 +30,28 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Computer Vision"
+  tag = ".computer-vision"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Catadioptrics"
+  tag = ".catadioptrics"
+
+[[filter]]
+  name = "Robotics"
+  tag = ".robotics"
+
+[[filter]]
+  name = "MAVs"
+  tag = ".MAV"
+
+[[filter]]
+  name = "Control"
+  tag = ".control"
+  
+[[filter]]
+  name = "Wall Climbing Robots"
+  tag = ".climber"
 
 +++
 
