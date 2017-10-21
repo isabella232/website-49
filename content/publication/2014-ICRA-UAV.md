@@ -1,7 +1,7 @@
 +++
 abstract = "In this paper we present a navigation system for Micro Aerial Vehicles (MAV) based on information provided by a visual odometry algorithm processing data from an RGB-D camera. The visual odometry algorithm uses an uncertainty analysis of the depth information to align newly observed features against a global sparse model of previously detected 3D features. The visual odometry provides updates at roughly 30 Hz that is fused at 1 KHz with the inertial sensor data through a Kalman Filter. The high-rate pose estimation is used as feedback for the controller, enabling autonomous flight. We developed a 4DOF path planner and implemented a real-time 3D SLAM where all the system runs on-board. The experimental results and live video demonstrates the autonomous flight and 3D SLAM capabilities of the quadrotor with our system."
 abstract_short = "We present an on-board navigation system for Micro Aerial Vehicles (MAV) based on information provided by a visual odometry algorithm processing data from an RGB-D camera."
-authors = ["Roberto G. Valenti", "Ivan Dryanovski", "Carlos Jaramillo", "Daniel Perea Strom", "Jizhong Xiao"]
+authors = ["Roberto G. Valenti", "Ivan Dryanovski", "[Carlos Jaramillo](http://me.vision2pi.com)", "Daniel Perea Strom", "Jizhong Xiao"]
 date = "2014-05-31"
 image_preview = "publications/2014-ICRA-UAV.png"
 math = true

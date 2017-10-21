@@ -1,7 +1,7 @@
 +++
 abstract = "An RGB-D camera is a sensor which outputs range and color information about objects. Recent technological advances in this area have introduced affordable RGB-D devices in the robotics community. In this paper, we present a real-time technique for 6-DoF camera pose estimation through the incremental registration of RGB-D images. First, a set of edge features are computed from the depth and color images. An initial motion estimation is calculated through aligning the features. This initial guess is refined by applying the Iterative Closest Point algorithm on the dense point cloud data. A rigorous error analysis assesses several sets of RGB-D ground truth data via an error accumulation metric. We show that the proposed two-stage approach significantly reduces error in the pose estimation, compared to a state-of-the-art ICP registration technique."
 abstract_short = "We present a real-time technique for 6-DoF camera pose estimation through the incremental registration of RGB-D images."
-authors = ["Ivan Dryanovski", "Carlos Jaramillo", "Jizhong Xiao"]
+authors = ["Ivan Dryanovski", "[Carlos Jaramillo](http://me.vision2pi.com)", "Jizhong Xiao"]
 date = "2012-05-14"
 image_preview = ""
 math = true

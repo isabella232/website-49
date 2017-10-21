@@ -1,7 +1,7 @@
 +++
 abstract = "The limited payload and on-board computation constraints of Micro Aerial Vehicles (MAVs) make sensor configuration very challenging for autonomous navigation and 3D mapping. This paper introduces a catadioptric single-camera omni-stereo vision system that uses a pair of custom-designed mirrors (in a folded configuration) satisfying the single view point (SVP) property. The system is compact and lightweight, has a wide baseline which allows fast 3D reconstruction based on stereo calculation. The algorithm for generating range panoramas is also introduced. The simulation and experimental study demonstrate that the system provides a good solution to the perception challenge of MAVs."
 abstract_short = "We introduce a catadioptric single-camera omnistereo vision system that uses a pair of custom-designed mirrors (in a folded configuration) satisfying the single view point (SVP) property as a good solution to the perception challenge of MAVs."
-authors = ["Carlos Jaramillo", "Ling Guo", "Jizhong Xiao"]
+authors = ["[Carlos Jaramillo](http://me.vision2pi.com)", "Ling Guo", "Jizhong Xiao"]
 date = "2013-06-19"
 image_preview = ""
 math = true
