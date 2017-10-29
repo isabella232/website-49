@@ -1,4 +1,5 @@
-baseurl = "https://ccny-ros-pkg.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "http://robotics.ccny.cuny.edu/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+#baseurl = "https://ccny-ros-pkg.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "CCNY Robotics Lab"
 copyright = "&copy; 2017 CCNY Robotics Lab"
 theme = "academic"
