@@ -11,7 +11,7 @@ weight = 5
  
 +++
 
-# Biography
+# About
 
 The Robotics and Intelligent Systems Lab (CCNY Robotics Lab) is a research laboratory directed by [Dr. John (Jizhong) Xiao](http://www-ee.ccny.cuny.edu/www/web/jxiao/jxiao.html), in the [Electrical Engineering Department](https://www.ccny.cuny.edu/eleceng) of [The City College of New York](https://www.ccny.cuny.edu) - the flagship campus of the City University of New York system.
 
